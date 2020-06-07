@@ -1,0 +1,6 @@
+./images
+./.idea
+./fonts
+./plugins
+#在下面添加css和js的依赖文件
+./js/文件名.js

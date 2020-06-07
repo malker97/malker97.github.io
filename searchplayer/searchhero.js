@@ -9,13 +9,19 @@ function getUserID() {
     playerid = playerid.replace(/#/,"-");
     return playerid;
 }
-
+var userid;
+if (document.cookie != null){
+    userid = document.cookie;
+    document.getElementById("playerid").value=userid;
+    // document.cookie = null;
+    // alert(userid)
+}
 function myfunction() {
     var tankrank = "";
     var damagerank = "";
     var supportrank = "";
     var username = "";
-    var userid = getUserID();
+    userid = getUserID();
     var newurl = url + userid;
     // alert(userid);
     // alert("Its a test for the file");
@@ -26,6 +32,10 @@ function myfunction() {
             // if (data.private == false){
             //     alert("你已经关闭生涯了！");
             // }
+            // document.cookie = data;
+            // console.log(document.cookie);
+            // alert(document.cookie.competitive.tank.rank);
+            document.cookie = userid;
             tankrank = data.competitive.tank.rank;
             damagerank = data.competitive.damage.rank;
             supportrank =  data.competitive.support.rank;
@@ -52,6 +62,11 @@ function myfunction() {
 
         })
 }
+// if (document.cookie!=null){
+//     myfunction();
+//     document.cookie=null;
+//     alert(document.cookie);
+// }
 // alert("这个文件被调用了!");
 // guesstheregion();
 // getIpAddress();
