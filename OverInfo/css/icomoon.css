@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?eu5u8a');
+  src:  url('../fonts/icomoon.eot?eu5u8a#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?eu5u8a') format('truetype'),
+    url('../fonts/icomoon.woff?eu5u8a') format('woff'),
+    url('../fonts/icomoon.svg?eu5u8a#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-multimedia:before {
+  content: "\e900";
+}
+.icon-technology:before {
+  content: "\e901";
+}
+.icon-signs-1:before {
+  content: "\e902";
+}
+.icon-sports:before {
+  content: "\e903";
+}
+.icon-business-5:before {
+  content: "\e904";
+}
+.icon-danger:before {
+  content: "\e905";
+}
+.icon-coins:before {
+  content: "\e906";
+}
+.icon-null:before {
+  content: "\e907";
+}
+.icon-business-4:before {
+  content: "\e908";
+}
+.icon-business-3:before {
+  content: "\e909";
+}
+.icon-business-2:before {
+  content: "\e90a";
+}
+.icon-mark:before {
+  content: "\e90b";
+}
+.icon-chart:before {
+  content: "\e90c";
+}
+.icon-people-2:before {
+  content: "\e90d";
+}
+.icon-clock:before {
+  content: "\e90e";
+}
+.icon-arrows:before {
+  content: "\e90f";
+}
+.icon-interface-1:before {
+  content: "\e910";
+}
+.icon-signs:before {
+  content: "\e911";
+}
+.icon-business-1:before {
+  content: "\e912";
+}
+.icon-home:before {
+  content: "\e913";
+}
+.icon-money-1:before {
+  content: "\e914";
+}
+.icon-computer:before {
+  content: "\e915";
+}
+.icon-medal:before {
+  content: "\e916";
+}
+.icon-file:before {
+  content: "\e917";
+}
+.icon-people-1:before {
+  content: "\e918";
+}
+.icon-people:before {
+  content: "\e919";
+}
+.icon-business:before {
+  content: "\e91a";
+}
+.icon-money:before {
+  content: "\e91b";
+}
+.icon-work:before {
+  content: "\e91c";
+}
+.icon-interface:before {
+  content: "\e91d";
+}
