@@ -6,6 +6,29 @@ function gettimezone() {
     // alert(gmtHours);
     return gmtHours;
 }
+function judgebrower() {
+    var explorer = window.navigator.userAgent ;
+    //判断是否为IE浏览器
+    if (explorer.indexOf("MSIE") >= 0) {
+        return 'ie';
+    }
+    //判断是否为Firefox浏览器
+    else if (explorer.indexOf("Firefox") >= 0) {
+        return 'Firefox';
+    }
+    //判断是否为Chrome浏览器
+    else if(explorer.indexOf("Chrome") >= 0){
+        return 'Chrome';
+    }
+    //判断是否为Opera浏览器
+    else if(explorer.indexOf("Opera") >= 0){
+        return 'Opera';
+    }
+    //判断是否为Safari浏览器
+    else if(explorer.indexOf("Safari") >= 0){
+        return 'Safari';
+    }
+}
 function ShowTimes(){
     var timezone = "";
     fetch(newurl)
@@ -15,7 +38,7 @@ function ShowTimes(){
         })
     var gmthours = gettimezone();
     var diffhr = 24 - gmthours;
-    var expressday = "2020/06/25 00:"+diffhr+":00"
+    var expressday = "2020/08/30 00:"+diffhr+":00"
     var AfterTime= new Date(expressday);//活动截止时间
     LeaveTime = AfterTime - new Date();
     LeaveDays=Math.floor(LeaveTime/(1000*60*60*24));//天
@@ -32,6 +55,10 @@ function ShowTimes(){
     {
         q="0"+c.getMilliseconds();
     }
-    hxtime.innerHTML="The End of 22 Seasons："+LeaveDays+" D "+LeaveHours+" H "+LeaveMinutes+" m "+LeaveSeconds+" s "+q+" ms ";
+    hxtime.innerHTML="The End of 23 Seasons："+LeaveDays+" D "+LeaveHours+" H "+LeaveMinutes+" m "+LeaveSeconds+" s "+q+" ms ";
 }
+const browsertype = judgebrower();
+if (browsertype == 'Safari')
+    alert("Sorry, We are not support Safari now!");
+
 setInterval(ShowTimes,100);

@@ -19,7 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/OverInfo" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,11 +31,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596220940780</updated>
-      <workItem from="1596220941941" duration="2154000" />
+      <workItem from="1596220941941" duration="2901000" />
+      <workItem from="1596325926123" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1318" y="434" key="#Notifications" timestamp="1596223105375">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1318" y="434" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1596223105375" />
+    <state x="1463" y="386" key="FileChooserDialogImpl" timestamp="1596325945999">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1463" y="386" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596325945999" />
+    <state x="1476" y="544" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596326152531">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1476" y="544" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596326152531" />
   </component>
 </project>

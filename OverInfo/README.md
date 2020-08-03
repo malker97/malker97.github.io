@@ -1,4 +1,6 @@
+## Announcement
 ## Update
+* R.I.P Roberto Draghetti
 * 📅删除了早期的日志，增加了新的模板，模板标题没更改
 * 2020年7月3日 开始继续更新该项目.
 * Make this Repo to public
