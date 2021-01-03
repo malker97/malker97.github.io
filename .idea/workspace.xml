@@ -19,7 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/OverInfo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NeteaseMusic-qingtian-comment" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,6 +33,11 @@
       <updated>1596220940780</updated>
       <workItem from="1596220941941" duration="2901000" />
       <workItem from="1596325926123" duration="242000" />
+      <workItem from="1597538102598" duration="1060000" />
+      <workItem from="1597616646845" duration="703000" />
+      <workItem from="1597623712206" duration="658000" />
+      <workItem from="1597707102804" duration="2586000" />
+      <workItem from="1598165634193" duration="639000" />
     </task>
     <servers />
   </component>
@@ -44,13 +49,17 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1318" y="434" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1596223105375" />
-    <state x="1463" y="386" key="FileChooserDialogImpl" timestamp="1596325945999">
+    <state x="1463" y="386" key="FileChooserDialogImpl" timestamp="1598165671404">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1463" y="386" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596325945999" />
+    <state x="1463" y="386" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598165671404" />
     <state x="1476" y="544" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596326152531">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1476" y="544" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596326152531" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1597538466370">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1597538466370" />
   </component>
 </project>
