@@ -3,10 +3,10 @@
 # How hard will this be?
 Very Hard!
 # Background Knowledge:
-[Thunder-CTF Github Repo](https://github.com/NicholasSpringer/thunder-ctf)
-[Thunder-ctf.cloud](https://thunder-ctf.cloud/)
-[Framework](http://thunder-ctf.cloud/pydocs/framework/)
-[Jinja Framework](https://jinja.palletsprojects.com/en/2.11.x/)
+* [Thunder-CTF Github Repo](https://github.com/NicholasSpringer/thunder-ctf)
+* [Thunder-ctf.cloud](https://thunder-ctf.cloud/)
+* [Framework](http://thunder-ctf.cloud/pydocs/framework/)
+* [Jinja Framework](https://jinja.palletsprojects.com/en/2.11.x/)
 
 What is CTF:
 https://www.wikiwand.com/en/Capture_the_flag Computer security Part

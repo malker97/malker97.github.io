@@ -1,5 +1,9 @@
 # Title: Supply-chain security codelabs and CTF (Capture-the-Flag) game
 
+# How interesting will this be?
+If you are interested in software security, malware reverse engineering, network security, or CTF, I can say that this is a very interesting and exciting project.
+
+
 # Background Knowledge:
 
 Most of our programming activities now rely on existing libraries(C or C++: iostream; python date; Javascript: Bootstrap ), These softwares are usually obtained from the Internet using corresponding package management tools (gcc, g++, pip/pip3, npm,brew, apt, [XcodeGhost Event](https://en.wikipedia.org/wiki/XcodeGhost)).
@@ -30,8 +34,6 @@ To demonstrate the issues with package supply chains, we are looking to build a 
 4. Identify a maintainer whose account, if compromised, would have the greatest impact on the application's supply chain.
 + This is more like obtaining an alternate software source? ``` vim /etc/apt/sources.list ```
 
-# How interesting will this be?
-If you are interested in software security, malware reverse engineering, network security, or CTF, I can say that this is a very interesting and exciting project.
 # Is there any external cost? (as is the case with google maps)
 We need at least one (AWS or GCP)server as the backend, if we want to do something like [Virustotal.com](https://www.virustotal.com/gui/) ,we also need a frontend.
 and We Probb need buy some api of sofeware info.
