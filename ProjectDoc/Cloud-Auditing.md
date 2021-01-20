@@ -1,3 +1,6 @@
+# 已经在组内被放弃了，如果有需要请自取
+其实我早就放弃这个项目了
+
 # Title: Cloud Auditing
 
 # How hard will this be?

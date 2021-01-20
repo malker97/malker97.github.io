@@ -1,3 +1,6 @@
+# 已经在组内被放弃了，如果有需要请自取
+
+
 # Title: Supply-chain security codelabs and CTF (Capture-the-Flag) game
 
 # How interesting will this be?
